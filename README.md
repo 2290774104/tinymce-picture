@@ -1,2 +1,3 @@
-# tinymce-picture
-tinymce 本地图片上传插件
+# picture TinyMCE Plugin
+
+Welcome stranger! This is a repo containing the picture TinyMCE plugin.
